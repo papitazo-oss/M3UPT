@@ -1,4 +1,4 @@
-name: Update streams
+Update-streamstu-latest: Update streams
 on:
   schedule:
     - cron: "0 */6 * * *"
